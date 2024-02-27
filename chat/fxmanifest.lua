@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'chat by ic7 | FssDev'
+description 'chat by ic7'
 
 ui_page 'html/index.html'
 
